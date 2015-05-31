@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Demon", "Demon\Demon.vcxproj", "{24450020-5877-490C-B8DB-6DD786E0CD06}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Triangle", "Triangle\Triangle.vcxproj", "{5ED9A826-EB46-4E32-9983-7FFB850FD0DA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SierpinskiRandom", "SierpinskiRandom\SierpinskiRandom.vcxproj", "{BF92AA00-2A67-472B-85B4-F71B50259414}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SierpinskiRecursion", "SierpinskiRecursion\SierpinskiRecursion.vcxproj", "{7AEAEA96-7868-431B-BBD1-9A75B1C71127}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3DSierpinskiRecursion", "3DSierpinskiRecursion\3DSierpinskiRecursion.vcxproj", "{A53BDFF1-4732-4E3E-92BA-4A24DCF3C21C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Maze", "Maze\Maze.vcxproj", "{1546D282-F5BD-4411-A832-09E2265ABB0D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "read", "read\read.vcxproj", "{10E1CA2D-4EC2-49A6-956B-28A19F11080E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24450020-5877-490C-B8DB-6DD786E0CD06}.Debug|Win32.ActiveCfg = Debug|Win32
+		{24450020-5877-490C-B8DB-6DD786E0CD06}.Debug|Win32.Build.0 = Debug|Win32
+		{24450020-5877-490C-B8DB-6DD786E0CD06}.Release|Win32.ActiveCfg = Release|Win32
+		{24450020-5877-490C-B8DB-6DD786E0CD06}.Release|Win32.Build.0 = Release|Win32
+		{5ED9A826-EB46-4E32-9983-7FFB850FD0DA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5ED9A826-EB46-4E32-9983-7FFB850FD0DA}.Debug|Win32.Build.0 = Debug|Win32
+		{5ED9A826-EB46-4E32-9983-7FFB850FD0DA}.Release|Win32.ActiveCfg = Release|Win32
+		{5ED9A826-EB46-4E32-9983-7FFB850FD0DA}.Release|Win32.Build.0 = Release|Win32
+		{BF92AA00-2A67-472B-85B4-F71B50259414}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BF92AA00-2A67-472B-85B4-F71B50259414}.Debug|Win32.Build.0 = Debug|Win32
+		{BF92AA00-2A67-472B-85B4-F71B50259414}.Release|Win32.ActiveCfg = Release|Win32
+		{BF92AA00-2A67-472B-85B4-F71B50259414}.Release|Win32.Build.0 = Release|Win32
+		{7AEAEA96-7868-431B-BBD1-9A75B1C71127}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7AEAEA96-7868-431B-BBD1-9A75B1C71127}.Debug|Win32.Build.0 = Debug|Win32
+		{7AEAEA96-7868-431B-BBD1-9A75B1C71127}.Release|Win32.ActiveCfg = Release|Win32
+		{7AEAEA96-7868-431B-BBD1-9A75B1C71127}.Release|Win32.Build.0 = Release|Win32
+		{A53BDFF1-4732-4E3E-92BA-4A24DCF3C21C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A53BDFF1-4732-4E3E-92BA-4A24DCF3C21C}.Debug|Win32.Build.0 = Debug|Win32
+		{A53BDFF1-4732-4E3E-92BA-4A24DCF3C21C}.Release|Win32.ActiveCfg = Release|Win32
+		{A53BDFF1-4732-4E3E-92BA-4A24DCF3C21C}.Release|Win32.Build.0 = Release|Win32
+		{1546D282-F5BD-4411-A832-09E2265ABB0D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1546D282-F5BD-4411-A832-09E2265ABB0D}.Debug|Win32.Build.0 = Debug|Win32
+		{1546D282-F5BD-4411-A832-09E2265ABB0D}.Release|Win32.ActiveCfg = Release|Win32
+		{1546D282-F5BD-4411-A832-09E2265ABB0D}.Release|Win32.Build.0 = Release|Win32
+		{10E1CA2D-4EC2-49A6-956B-28A19F11080E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{10E1CA2D-4EC2-49A6-956B-28A19F11080E}.Debug|Win32.Build.0 = Debug|Win32
+		{10E1CA2D-4EC2-49A6-956B-28A19F11080E}.Release|Win32.ActiveCfg = Release|Win32
+		{10E1CA2D-4EC2-49A6-956B-28A19F11080E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
